@@ -1,2 +1,2 @@
-# Lallabu
-This is only a test
+- Student
+- Love doing a bunch of random stuff
